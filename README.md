@@ -1,16 +1,20 @@
-### Hi there 👋
+<p>
+ <h2>
+  Hi 👋 I'm Devenrdra Yadav 
+ </h2>
+</p>
 
-<!--
-**iamindradev/iamindradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> A backend developer enthusiast to learn new Tech and Lesson. </h2>
 
-Here are some ideas to get you started:
+<p align ="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamindradev&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamindradev)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/iamindradev/count.svg" />
+ </p>
