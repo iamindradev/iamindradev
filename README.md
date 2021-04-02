@@ -2,25 +2,27 @@
  <h2>
   Hi 👋 I'm Devenrdra Yadav 
  </h2>
+<h3> An enthusiast CS sophomore always ready to contribute and learn new technologies.</h3>
 </p>
 
-*  A backend developer enthusiast to learn new Tech and Lesson.
+*  Working as backend developer(Django Developer).
 
-*  Working as Django Developer.
-
-*  Currently Learning React
+*  Currently Learning React 
 
 <hr>
+<p align="center">
+  <img width="100" height="100" src="https://img.icons8.com/doodle/72/bar-chart--v1.png">
+ 
+ # Developer Stats
+</p>
 
-![developers stats](https://img.icons8.com/doodle/72/bar-chart--v1.png) <h2> Developer Stats</h2>
+
 <p align ="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamindradev&layout=compact)
-
-![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamindradev&show_icons=true&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamindradev&langs_count=5&theme=tokyonight)                  
+ ![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamindradev&show_icons=true&theme=dark)
 
 </p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/iamindradev/count.svg" />
+<!--   <img src="https://profile-counter.glitch.me/iamindradev/count.svg" /> -->
  </p>
