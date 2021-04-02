@@ -9,7 +9,7 @@
 
 *  Currently Learning React and DSA.
 
-*  
+*  Also worked on live project.
 <hr>
 <h2>Tools and Technologies worked on:</h2>
 <p>
@@ -17,15 +17,12 @@
  
 ![django](https://img.icons8.com/color/72/django.png)
 ![python](https://img.icons8.com/color/72/python.png)
-![vscode](https://img.icons8.com/color/72/visual-studio.png)
+![visual studio ](https://img.icons8.com/color/72/visual-studio.png)
+![vscode](https://img.icons8.com/color/72/visual-studio-code-2019.png)
 ![html5](https://img.icons8.com/color/72/html-5.png)
 ![javascript](https://img.icons8.com/color/72/javascript.png)
 ![bash script](https://img.icons8.com/color/72/console.png)
 
-</p>
-
-<p align=center>
-  <img width="100" height="100" src="https://img.icons8.com/doodle/72/bar-chart--v1.png">
 </p>
 
 # <p align = center>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamindradev&langs_count=5&theme=black)
@@ -34,7 +31,4 @@
 # <p align = center> ![Devendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamindradev&show_icons=true&theme=dark)
  </p>
 
-<p align="center"> 
-  Visitor count<br>
-<!--   <img src="https://profile-counter.glitch.me/iamindradev/count.svg" /> -->
- </p>
+# <p align =center> [![linkedin](https://img.icons8.com/color/72/linkedin.png)](https://www.linkedin.com/in/devendra-yadav-566763197/)
