@@ -8,8 +8,6 @@
 *  Working as backend developer(Django Developer).
 
 *  Currently Learning React and DSA.
-
-*  Also worked on live project.
 <hr>
 <h2>Tools and Technologies worked on:</h2>
 <p>
