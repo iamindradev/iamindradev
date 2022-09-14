@@ -5,7 +5,7 @@
 <h2  align = center> An enthusiast CS sophomore always ready to contribute and learn new technologies.</h2>
 </p>
 
-*  Working as backend developer(Django Developer).
+*  Working as DevOps Intern @INDmoney .
 
 *  Currently Learning React and DSA.
 <hr>
