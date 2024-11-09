@@ -1,22 +1,33 @@
-# Hi there, I'm Devendra Yadav 👋
+<h1 align="center">Hi, I'm Devendra Yadav 👋</h1>
+<h3 align="center">I build and scale cloud infrastructure, share knowledge, and love to solve tech problems!</h3>
 
-🎯 **DevOps Engineer | Cloud Enthusiast | Tech Problem Solver**  
-📍 **Location:** Gurugram, India  
-📫 **Reach me at:** [yadavdevendra99876@gmail.com](mailto:yadavdevendra99876@gmail.com)   
-💼 **LinkedIn:** [linkedin.com/in/indradev18](https://linkedin.com/in/indradev18)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=indradev18&label=Profile%20views&color=0e75b6&style=flat" alt="indradev18" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=indradev18" alt="indradev18" /></a> </p>
 
-## 🚀 About Me
-I’m a DevOps Engineer passionate about cloud infrastructure, automation, and building scalable, efficient systems. With hands-on experience in AWS, Kubernetes, Terraform, and CI/CD, I strive to bridge the gap between development and operations, enhancing deployment speed and system reliability. I love coding and am always eager to learn new technologies and improve my skills in infrastructure automation, DevSecOps, and cloud computing.
+- 👨‍💻 Currently working at [Nutanix](https://www.nutanix.com/)
 
----
+- 🌱 Exploring **Advanced Kubernetes, DevSecOps**
 
-## 🛠️ Skills & Technologies
+- 💬 Ask me about **DevOps, AWS, Infrastructure Automation**
 
-- ☁️ **Cloud & Infrastructure**: AWS (EC2, RDS, Lambda, ECS, S3)
-- ⚙️ **Orchestration & Automation**: Kubernetes, Amazon EKS, Karpenter, Argo CD, Terraform, IaC
-- 🚀 **CI/CD**: Jenkins, Bitbucket Pipelines, GitHub Actions
-- 📊 **Monitoring & Alerting**: Prometheus, Grafana, New Relic, CloudWatch
-- 💻 **Scripting & Development**: Python (Boto3), Bash, Golang
-- 🔄 **Version Control**: Git, GitHub
+- 📫 Reach me at **[yadavdevendra99876@gmail.com](mailto:yadavdevendra99876@gmail.com)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/indradev18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indradev18" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+<a href="https://prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a> 
+<a href="https://grafana.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
+<a href="https://golang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
+</p>
