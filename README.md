@@ -2,7 +2,7 @@
 
 🎯 **DevOps Engineer | Cloud Enthusiast | Tech Problem Solver**  
 📍 **Location:** Gurugram, India  
-📫 **Reach me at:** [yadavdevendra99876@gmail.com](mailto:yadavdevendra99876@gmail.com) | +91 9140981843  
+📫 **Reach me at:** [yadavdevendra99876@gmail.com](mailto:yadavdevendra99876@gmail.com) 
 💼 **LinkedIn:** [linkedin.com/in/indradev18](https://linkedin.com/in/indradev18)  
 
 ---
