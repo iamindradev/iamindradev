@@ -14,9 +14,9 @@ I’m a DevOps Engineer passionate about cloud infrastructure, automation, and b
 
 ## 🛠️ Skills & Technologies
 
-- **Cloud & Infrastructure**: AWS (EC2, RDS, Lambda, ECS, S3)
-- **Orchestration & Automation**: Kubernetes, Amazon EKS, Karpenter, Argo CD, Terraform, IaC
-- **CI/CD**: Jenkins, Bitbucket Pipelines, GitHub Actions
-- **Monitoring & Alerting**: Prometheus, Grafana, New Relic, CloudWatch
-- **Scripting & Development**: Python (Boto3), Bash, Golang
-- **Version Control**: Git, GitHub
+- ☁️ **Cloud & Infrastructure**: AWS (EC2, RDS, Lambda, ECS, S3)
+- ⚙️ **Orchestration & Automation**: Kubernetes, Amazon EKS, Karpenter, Argo CD, Terraform, IaC
+- 🚀 **CI/CD**: Jenkins, Bitbucket Pipelines, GitHub Actions
+- 📊 **Monitoring & Alerting**: Prometheus, Grafana, New Relic, CloudWatch
+- 💻 **Scripting & Development**: Python (Boto3), Bash, Golang
+- 🔄 **Version Control**: Git, GitHub
